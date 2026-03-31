@@ -93,7 +93,4 @@ A: 1959
 
 ---
 
-## Project Structure
-* `main.py` — The core application containing the `LectureAssistant` class.
-* `requirements.txt` — List of required Python packages for the environment.
-* `README.md` — Project documentation and setup guide.
+
